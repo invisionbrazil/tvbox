@@ -21,6 +21,11 @@
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main//animes-legendados/black-clover.xml</externallink>
 	</channel>
 	<channel>
+		<name>Fuguushoku Kanteishi ga Jitsu wa Saikyou Datta</name>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main//animes-legendados/fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta.xml</externallink>
+	</channel>
+	<channel>
     	<name>Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru</name>
 		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/isshun-de-chiryou-shiteita-no-ni-yakutatazu.webp</thumbnail>
     	<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main//animes-legendados/isshun-de-chiryou-shiteita-no-ni-yakutatazu.xml</externallink>
