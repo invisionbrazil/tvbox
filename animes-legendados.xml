@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channels>	
+<channels>
 	<channel>
 		<name>.hack//SIGN</name>
 		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/hack-sign.webp</thumbnail>
@@ -105,4 +105,4 @@
 		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/shiunji-ke-no-kodomotachi.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main//animes-legendados/shiunji-ke-no-kodomotachi.xml</externallink>
 	</channel>
-</channels>	
+</channels>
