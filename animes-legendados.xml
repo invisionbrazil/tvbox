@@ -36,6 +36,11 @@
     	<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main//animes-legendados/katainaka-no-ossan-kensei-ni-naru.xml</externallink>
     </channel>
 	<channel>
+		<name>Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanash</name>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/kanchigai-no-atelier-meister.webp</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-legendados/kanchigai-no-atelier-meister.xml</externallink>
+	</channel>
+	<channel>
     	<name>Shiunji-ke no Kodomotachi</name>
 		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/shiunji-ke-no-kodomotachi.webp</thumbnail>
     	<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main//animes-legendados/shiunji-ke-no-kodomotachi.xml</externallink>
