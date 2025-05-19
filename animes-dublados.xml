@@ -2,42 +2,42 @@
 <channels>	
 	<channel>
 		<name>.hack//SIGN</name>
-		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/hack-sign.jpg</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/hack-sign.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/hack-sign.xml</externallink>
 	</channel>
 	<channel>
 		<name>009-1</name>
-		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/009-1.jpg</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/009-1.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/009-1.xml</externallink>
 	</channel>
 	<channel>
 		<name>A.I.C.O. Incarnation</name>
-		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/a-i-c-o-incarnation.jpg</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/a-i-c-o-incarnation.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/a-i-c-o-incarnation.xml</externallink>
 	</channel>
 	<channel>
 		<name>Ah Megami-sama Oh My Goddess</name>
-		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/ah-megami-sama-oh-my-goddess.jpg</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/ah-megami-sama-oh-my-goddess.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/ah-megami-sama-oh-my-goddess.xml</externallink>
 	</channel>
 	<channel>
 		<name>Avatar: A Lenda de Aang</name>
-		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/avatar-a-lenda-de-aang.jpg</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/avatar-a-lenda-de-aang.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/avatar-a-lenda-de-aang.xml</externallink>
 	</channel>
 	<channel>
 		<name>Black Clover</name>
-		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/black-clover.jpg</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/black-clover.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/black-clover.xml</externallink>
 	</channel>
 	<channel>
 		<name>Bleach</name>
-		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/bleach.jpg</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/bleach.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/bleach.xml</externallink>
 	</channel>
 	<channel>
 		<name>Bleach: Sennen Kessen-hen – Ketsubetsu-tan</name>
-		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/bleach-sennen-kessen-hen–ketsubetsu-tan.jpg</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/bleach-sennen-kessen-hen–ketsubetsu-tan.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/bleach-sennen-kessen-hen–ketsubetsu-tan.xml</externallink>
 	</channel>
 	<channel>
@@ -58,7 +58,7 @@
 	</channel>
 	<channel>
 		<name>Dandadan</name>
-		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/dandadan.jpg</thumbnail>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/dandadan.webp</thumbnail>
 		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/dandadan.xml</externallink>
 	</channel>
 	<channel>
