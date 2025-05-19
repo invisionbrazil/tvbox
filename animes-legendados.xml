@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>  
+    <channel>
+    	<name>.hack//SIGN</name>
+    	<externallink>https://localhost/animes-legendados/hack-sign.xml</externallink>
+    </channel>
+	<channel>
+    	<name>009-1</name>
+    	<externallink>https://localhost/animes-legendados/009-1.xml</externallink>
+    </channel>
+	<channel>
+		<name>Black Clover</name>
+		<externallink>http://localhost/animes-legendados/black-clover.xml</externallink>
+	</channel>
+</channels>	
