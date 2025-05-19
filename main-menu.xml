@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>	
+	<channel>
+		<name>ANIMES DUBLADOS</name>
+		<info>Animes</info>
+		<externallink>http://localhost/animes-dublados.xml</externallink>
+	</channel>
+	<channel>
+		<name>ANIMES LEGENDADOS</name>
+		<info>Animes</info>
+		<externallink>http://localhost/animes-legendados.xml</externallink>
+	</channel>
+</channels>
