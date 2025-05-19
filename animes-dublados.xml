@@ -2,313 +2,339 @@
 <channels>	
 	<channel>
 		<name>.hack//SIGN</name>
-		<thumbnail>http://localhost/animes-icons/hack-sign.jpg</thumbnail>
-		<externallink>http://localhost/animes-dublados/hack-sign.xml</externallink>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/hack-sign.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/hack-sign.xml</externallink>
 	</channel>
 	<channel>
 		<name>009-1</name>
-		<thumbnail>http://localhost/animes-icons/009-1.jpg</thumbnail>
-		<externallink>http://localhost/animes-dublados/009-1.xml</externallink>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/009-1.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/009-1.xml</externallink>
+	</channel>
+	<channel>
+		<name>A.I.C.O. Incarnation</name>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/a-i-c-o-incarnation.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/a-i-c-o-incarnation.xml</externallink>
+	</channel>
+	<channel>
+		<name>Ah Megami-sama Oh My Goddess</name>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/ah-megami-sama-oh-my-goddess.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/ah-megami-sama-oh-my-goddess.xml</externallink>
 	</channel>
 	<channel>
 		<name>Avatar: A Lenda de Aang</name>
-		<thumbnail>http://localhost/animes-icons/avatar-a-lenda-de-aang.jpg</thumbnail>
-		<externallink>http://localhost/animes-dublados/avatar-a-lenda-de-aang.xml</externallink>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/avatar-a-lenda-de-aang.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/avatar-a-lenda-de-aang.xml</externallink>
 	</channel>
 	<channel>
 		<name>Black Clover</name>
-		<thumbnail>http://localhost/animes-icons/black-clover.jpg</thumbnail>
-		<externallink>http://localhost/animes-dublados/black-clover.xml</externallink>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/black-clover.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/black-clover.xml</externallink>
 	</channel>
 	<channel>
 		<name>Bleach</name>
-		<thumbnail>http://localhost/animes-icons/bleach.jpg</thumbnail>
-		<externallink>http://localhost/animes-dublados/bleach.xml</externallink>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/bleach.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/bleach.xml</externallink>
 	</channel>
 	<channel>
 		<name>Bleach: Sennen Kessen-hen – Ketsubetsu-tan</name>
-		<thumbnail>http://localhost/animes-icons/bleach-sennen-kessen-hen–ketsubetsu-tan.jpg</thumbnail>
-		<externallink>http://localhost/animes-dublados/bleach-sennen-kessen-hen–ketsubetsu-tan.xml</externallink>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/bleach-sennen-kessen-hen–ketsubetsu-tan.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/bleach-sennen-kessen-hen–ketsubetsu-tan.xml</externallink>
 	</channel>
 	<channel>
 		<name>Bleach: Sennen Kessen-hen – Soukoku-tan</name>
-		<externallink>http://localhost/animes-dublados/bleach-sennen-kessen-hen–soukoku-tan.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/bleach-sennen-kessen-hen–soukoku-tan.xml</externallink>
 	</channel>
 	<channel>
 		<name>Bleach: Sennen Kessen-hen</name>
-		<externallink>http://localhost/animes-dublados/bleach-sennen-kessen-hen.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/bleach-sennen-kessen-hen.xml</externallink>
+	</channel>
+	<channel>
+		<name>Blue Lock</name>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/blue-lock.xml</externallink>
+	</channel>
+	<channel>
+		<name>Blue Lock 2</name>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/blue-lock-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Dandadan</name>
-		<thumbnail>http://localhost/animes-icons/dandadan.jpg</thumbnail>
-		<externallink>http://localhost/animes-dublados/dandadan.xml</externallink>
+		<thumbnail>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-icons/dandadan.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/dandadan.xml</externallink>
 	</channel>
 	<channel>
 		<name>Dragon Ball</name>
-		<externallink>http://localhost/animes-dublados/dragon-ball.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/dragon-ball.xml</externallink>
 	</channel>
 	<channel>
 		<name>Dragon Ball Z</name>
-		<externallink>http://localhost/animes-dublados/dragon-ballz.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/dragon-ballz.xml</externallink>
 	</channel>
 	<channel>
 		<name>Dragon Ball GT</name>
-		<externallink>http://localhost/animes-dublados/dragon-ballgt.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/dragon-ballgt.xml</externallink>
 	</channel>
 	<channel>
 		<name>Dragon Ball Super</name>
-		<externallink>http://localhost/animes-dublados/dragon-ball-super.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/dragon-ball-super.xml</externallink>
 	</channel>
 	<channel>
 		<name>Dragon Ball Heros</name>
-		<externallink>http://localhost/animes-dublados/dragon-ball-heros.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/dragon-ball-heros.xml</externallink>
 	</channel>
 	<channel>
 		<name>Dragon Ball Daima</name>
-		<externallink>http://localhost/animes-dublados/dragon-ball-daima.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/dragon-ball-daima.xml</externallink>
 	</channel>
 	<channel>
 		<name>Enen no Shouboutai (Fire Force)</name>
-		<externallink>http://localhost/animes-dublados/enen-no-shouboutai.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/enen-no-shouboutai.xml</externallink>
 	</channel>
 	<channel>
 		<name>Enen no Shouboutai: Ni no Shou (Fire Force 2)</name>
-		<externallink>http://localhost/animes-dublados/enen-no-shouboutai-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/enen-no-shouboutai-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Enen no Shouboutai: San no Shou (Fire Force 3)</name>
-		<externallink>http://localhost/animes-dublados/enen-no-shouboutai-3.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/enen-no-shouboutai-3.xml</externallink>
 	</channel>
 	<channel>
 		<name>Eiyuu Kyoushitsu</name>
-		<externallink>http://localhost/animes-dublados/eiyuu-kyoushitsu.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/eiyuu-kyoushitsu.xml</externallink>
 	</channel>
 	<channel>
 		<name>Fairy Tail</name>
-		<externallink>http://localhost/animes-dublados/fairy-tail.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/fairy-tail.xml</externallink>
 	</channel>
 	<channel>
 		<name>Goblin Slayer</name>
-		<externallink>http://localhost/animes-dublados/goblin-slayer.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/goblin-slayer.xml</externallink>
 	</channel>
 	<channel>
 		<name>Goblin Slayer 2</name>
-		<externallink>http://localhost/animes-dublados/goblin-slayer-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/goblin-slayer-2.xml</externallink>
+	</channel>
+	<channel>
+		<name>Hananoi-kun to Koi no Yamai</name>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/hananoi-kun-to-koi-no-yamai.xml</externallink>
 	</channel>
 	<channel>
 		<name>Hunter x Hunter</name>
-		<externallink>http://localhost/animes-dublados/hunter-x-hunter.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/hunter-x-hunter.xml</externallink>
 	</channel>
 	<channel>
 		<name>Ijiranaide, Nagatoro-san</name>
-		<externallink>http://localhost/animes-dublados/ijiranaide-nagatoro-san.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/ijiranaide-nagatoro-san.xml</externallink>
 	</channel>
 	<channel>
 		<name>Ijiranaide, Nagatoro-san 2 Attack</name>
-		<externallink>http://localhost/animes-dublados/ijiranaide-nagatoro-san-2-attack.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/ijiranaide-nagatoro-san-2-attack.xml</externallink>
 	</channel>
 	<channel>
 		<name>Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta</name>
-		<externallink>http://localhost/animes-dublados/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa.xml</externallink>
 	</channel>
 	<channel>
 		<name>Isekai One Turn Kill Nee-san</name>
-		<externallink>http://localhost/animes-dublados/isekai-one-turn-kill-nee-san.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/isekai-one-turn-kill-nee-san.xml</externallink>
 	</channel>
 	<channel>
 		<name>InuYasha</name>
-		<externallink>http://localhost/animes-dublados/inuyasha.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/inuyasha.xml</externallink>
 	</channel>
 	<channel>
 		<name>Jujutsu Kaisen</name>
-		<externallink>http://localhost/animes-dublados/jujutsu-kaisen.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/jujutsu-kaisen.xml</externallink>
 	</channel>
 	<channel>
 		<name>Jujutsu Kaisen 2</name>
-		<externallink>http://localhost/animes-dublados/jujutsu-kaisen-2.xml</externallink>
-	</channel>
-	<channel>
-		<name>Kekkon Yubiwa Monogatari</name>
-		<externallink>http://localhost/animes-dublados/kekkon-yubiwa-monogatari.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/jujutsu-kaisen-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kaguya-sama: Love is War</name>
-		<externallink>http://localhost/animes-dublados/kaguya-sama-love-is-war.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kaguya-sama-love-is-war.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kaguya-sama: Love is War 2</name>
-		<externallink>http://localhost/animes-dublados/inuyasha.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/inuyasha.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kaguya-sama: Love is War – Ultra Romantic</name>
-		<externallink>http://localhost/animes-dublados/kaguya-sama-love-is-war-ultra-romantic.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kaguya-sama-love-is-war-ultra-romantic.xml</externallink>
+	</channel>
+	<channel>
+		<name>Kami wa Game ni Ueteiru</name>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kami-wa-game-ni-ueteiru.xml</externallink>
+	</channel>
+	<channel>
+		<name>Kekkon Yubiwa Monogatari</name>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kekkon-yubiwa-monogatari.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kimetsu no Yaiba</name>
-		<externallink>http://localhost/animes-dublados/kimetsu-no-yaiba.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kimetsu-no-yaiba.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kimetsu no Yaiba: Hashira Geiko-hen</name>
-		<externallink>http://localhost/animes-dublados/kimetsu-no-yaiba-hashira-geiko-hen.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kimetsu-no-yaiba-hashira-geiko-hen.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kimetsu no Yaiba: Katanakaji no Sato-hen</name>
-		<externallink>http://localhost/animes-dublados/kimetsu-no-yaiba-katanakaji-no-sato-hen.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kimetsu-no-yaiba-katanakaji-no-sato-hen.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kimetsu no Yaiba: Mugen Ressha-hen</name>
-		<externallink>http://localhost/animes-dublados/kimetsu-no-yaiba-mugen-ressha-hen.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kimetsu-no-yaiba-mugen-ressha-hen.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kimetsu no Yaiba: Yuukaku-hen</name>
-		<externallink>http://localhost/animes-dublados/kimetsu-no-yaiba-katanakaji-no-sato-hen.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kimetsu-no-yaiba-katanakaji-no-sato-hen.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanash</name>
-		<externallink>http://localhost/animes-dublados/kanchigai-no-atelier-meister.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kanchigai-no-atelier-meister.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kono Subarashii Sekai ni Shukufuku wo!</name>
-		<externallink>http://localhost/animes-dublados/kono-subarashii-sekai-ni-shukufuku-wo.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kono-subarashii-sekai-ni-shukufuku-wo.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kono Subarashii Sekai ni Shukufuku wo! 2</name>
-		<externallink>http://localhost/animes-dublados/kono-subarashii-sekai-ni-shukufuku-wo-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kono-subarashii-sekai-ni-shukufuku-wo-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Kono Subarashii Sekai ni Shukufuku wo! 3</name>
-		<externallink>http://localhost/animes-dublados/kono-subarashii-sekai-ni-shukufuku-wo-3.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/kono-subarashii-sekai-ni-shukufuku-wo-3.xml</externallink>
 	</channel>
 	<channel>
 		<name>Maou-sama, Retry!</name>
-		<externallink>http://localhost/animes-dublados/maou-sama-retry.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/maou-sama-retry.xml</externallink>
 	</channel>
 	<channel>
 		<name>Mashle</name>
-		<externallink>http://localhost/animes-dublados/mashle.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/mashle.xml</externallink>
 	</channel>
 	<channel>
 		<name>Mashle 2</name>
-		<externallink>http://localhost/animes-dublados/mashle-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/mashle-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Nanatsu no Taizai</name>
-		<externallink>http://localhost/animes-dublados/nanatsu-no-taizai.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/nanatsu-no-taizai.xml</externallink>
 	</channel>
 	<channel>
 		<name>Naruto Clássico</name>
-		<externallink>http://localhost/animes-dublados/naruto.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/naruto.xml</externallink>
 	</channel>
 	<channel>
 		<name>Naruto Shippuudden</name>
-		<externallink>http://localhost/animes-dublados/naruto-shippuudden.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/naruto-shippuudden.xml</externallink>
 	</channel>
 	<channel>
 		<name>Os Cavaleiros do Zodíaco</name>
-		<externallink>http://localhost/animes-dublados/os-cavaleiros-do-zodiaco.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/os-cavaleiros-do-zodiaco.xml</externallink>
 	</channel>
 	<channel>
 		<name>Pokémon</name>
-		<externallink>http://localhost/animes-dublados/pokemon.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/pokemon.xml</externallink>
 	</channel>
 	<channel>
 		<name>Pokémon XY</name>
-		<externallink>http://localhost/animes-dublados/pokemon-xy.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/pokemon-xy.xml</externallink>
 	</channel>
 	<channel>
 		<name>Ragnarok</name>
-		<externallink>http://localhost/animes-dublados/pokemon.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/pokemon.xml</externallink>
 	</channel>
 	<channel>
 		<name>Ranma ½</name>
-		<externallink>http://localhost/animes-dublados/ranma-1-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/ranma-1-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Ranma ½ (2024)</name>
-		<externallink>http://localhost/animes-dublados/ranma-1-2-2024.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/ranma-1-2-2024.xml</externallink>
 	</channel>
 	<channel>
 		<name>Rokudenashi Majutsu Koushi to Akashic Records</name>
-		<externallink>http://localhost/animes-dublados/rokudenashi-majutsu-to-akashic-records.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/rokudenashi-majutsu-to-akashic-records.xml</externallink>
 	</channel>
 	<channel>
 		<name>Saint Seiya Omega</name>
-		<externallink>http://localhost/animes-dublados/saint-seiya-omega.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/saint-seiya-omega.xml</externallink>
 	</channel>
 	<channel>
 		<name>Saint Seiya: The Lost Canvas</name>
-		<externallink>http://localhost/animes-dublados/saint-seiya-the-lost-canvas.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/saint-seiya-the-lost-canvas.xml</externallink>
 	</channel>
 	<channel>
 		<name>Saint Seiya: The Lost Canvas 2</name>
-		<externallink>http://localhost/animes-dublados/saint-seiya-the-lost-canvas-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/saint-seiya-the-lost-canvas-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Shangri-La Frontier</name>
-		<externallink>http://localhost/animes-dublados/shangri-la-frontier.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/shangri-la-frontier.xml</externallink>
 	</channel>
 	<channel>
 		<name>Shangri-La Frontier 2</name>
-		<externallink>http://localhost/animes-dublados/shangri-la-frontier-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/shangri-la-frontier-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Solo Leveling</name>
-		<externallink>http://localhost/animes-dublados/solo-leveling.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/solo-leveling.xml</externallink>
 	</channel>
 	<channel>
 		<name>Solo Leveling 2</name>
-		<externallink>http://localhost/animes-dublados/solo-leveling-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/solo-leveling-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Sousou no Frieren</name>
-		<externallink>http://localhost/animes-dublados/sousou-no-frieren.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/sousou-no-frieren.xml</externallink>
 	</channel>
 	<channel>
 		<name>Soul Hunter</name>
-		<externallink>http://localhost/animes-dublados/soul-hunter.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/soul-hunter.xml</externallink>
 	</channel>
 	<channel>
 		<name>Sword Art Online</name>
-		<externallink>http://localhost/animes-dublados/sword-art-online.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/sword-art-online.xml</externallink>
 	</channel>
 	<channel>
 		<name>Sword Art Online II</name>
-		<externallink>http://localhost/animes-dublados/sword-art-online-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/sword-art-online-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Sword Art Online: Alicization</name>
-		<externallink>http://localhost/animes-dublados/sword-art-online-alicization.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/sword-art-online-alicization.xml</externallink>
 	</channel>
 	<channel>
 		<name>Tate no Yuusha no Nariagari</name>
-		<externallink>http://localhost/animes-dublados/tate-no-yuusha-no-nariagari.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/tate-no-yuusha-no-nariagari.xml</externallink>
 	</channel>
 	<channel>
 		<name>Tate no Yuusha no Nariagari 2</name>
-		<externallink>http://localhost/animes-dublados/tate-no-yuusha-no-nariagari-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/tate-no-yuusha-no-nariagari-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Tate no Yuusha no Nariagari 3</name>
-		<externallink>http://localhost/animes-dublados/tate-no-yuusha-no-nariagari-3.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/tate-no-yuusha-no-nariagari-3.xml</externallink>
 	</channel>
 	<channel>
 		<name>Tengoku Daimakyou</name>
-		<externallink>http://localhost/animes-dublados/tengoku-daimakyou.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/tengoku-daimakyou.xml</externallink>
 	</channel>
 	<channel>
 		<name>Tower of God</name>
-		<externallink>http://localhost/animes-dublados/tower-of-god.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/tower-of-god.xml</externallink>
 	</channel>
 	<channel>
 		<name>Tower of God 2</name>
-		<externallink>http://localhost/animes-dublados/tower-of-god-2.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/tower-of-god-2.xml</externallink>
 	</channel>
 	<channel>
 		<name>Yu Yu Hakusho</name>
-		<externallink>http://localhost/animes-dublados/yu-yu-hakusho.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/yu-yu-hakusho.xml</externallink>
 	</channel>
 	<channel>
 		<name>Yu-Gi-Oh</name>
-		<externallink>http://localhost/animes-dublados/yu-gi-oh.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main/animes-dublados/yu-gi-oh.xml</externallink>
 	</channel>
 </channels>

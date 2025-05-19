@@ -3,11 +3,11 @@
 	<channel>
 		<name>ANIMES DUBLADOS</name>
 		<info>Animes</info>
-		<externallink>http://localhost/animes-dublados.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main//animes-dublados.xml</externallink>
 	</channel>
 	<channel>
 		<name>ANIMES LEGENDADOS</name>
 		<info>Animes</info>
-		<externallink>http://localhost/animes-legendados.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/invisionbrazil/tvbox/refs/heads/main//animes-legendados.xml</externallink>
 	</channel>
 </channels>
